@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Grinning Rat"
+  avatar : "assets\images\gr_wordmark_w.jpg"
+  bio    : "Grinning Rat Makes Tabletop Games!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
