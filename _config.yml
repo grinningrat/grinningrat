@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Grinning Rat"
-  avatar : "assets\images\gr_wordmark_w.jpg"
+  avatar : "/assets/images/gr_wordmark_w.jpg"
   bio    : "Grinning Rat Makes Tabletop Games!"
   links:
     - label: "Website"
